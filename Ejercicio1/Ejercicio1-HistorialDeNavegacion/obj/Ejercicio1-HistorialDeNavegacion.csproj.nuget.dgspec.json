@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\franz\\Documents\\Gabo-ESEN\\Python\\EDA\\EjerciciosGuia1\\Ejercicio1\\Ejercicio1-HistorialDeNavegacion\\Ejercicio1-HistorialDeNavegacion.csproj": {}
+    "C:\\Users\\franz\\Documents\\GaboESEN\\Python\\Guia1-EDA\\Ejercicio1\\Ejercicio1-HistorialDeNavegacion\\Ejercicio1-HistorialDeNavegacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\franz\\Documents\\Gabo-ESEN\\Python\\EDA\\EjerciciosGuia1\\Ejercicio1\\Ejercicio1-HistorialDeNavegacion\\Ejercicio1-HistorialDeNavegacion.csproj": {
+    "C:\\Users\\franz\\Documents\\GaboESEN\\Python\\Guia1-EDA\\Ejercicio1\\Ejercicio1-HistorialDeNavegacion\\Ejercicio1-HistorialDeNavegacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franz\\Documents\\Gabo-ESEN\\Python\\EDA\\EjerciciosGuia1\\Ejercicio1\\Ejercicio1-HistorialDeNavegacion\\Ejercicio1-HistorialDeNavegacion.csproj",
+        "projectUniqueName": "C:\\Users\\franz\\Documents\\GaboESEN\\Python\\Guia1-EDA\\Ejercicio1\\Ejercicio1-HistorialDeNavegacion\\Ejercicio1-HistorialDeNavegacion.csproj",
         "projectName": "Ejercicio1-HistorialDeNavegacion",
-        "projectPath": "C:\\Users\\franz\\Documents\\Gabo-ESEN\\Python\\EDA\\EjerciciosGuia1\\Ejercicio1\\Ejercicio1-HistorialDeNavegacion\\Ejercicio1-HistorialDeNavegacion.csproj",
+        "projectPath": "C:\\Users\\franz\\Documents\\GaboESEN\\Python\\Guia1-EDA\\Ejercicio1\\Ejercicio1-HistorialDeNavegacion\\Ejercicio1-HistorialDeNavegacion.csproj",
         "packagesPath": "C:\\Users\\franz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franz\\Documents\\Gabo-ESEN\\Python\\EDA\\EjerciciosGuia1\\Ejercicio1\\Ejercicio1-HistorialDeNavegacion\\obj\\",
+        "outputPath": "C:\\Users\\franz\\Documents\\GaboESEN\\Python\\Guia1-EDA\\Ejercicio1\\Ejercicio1-HistorialDeNavegacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
