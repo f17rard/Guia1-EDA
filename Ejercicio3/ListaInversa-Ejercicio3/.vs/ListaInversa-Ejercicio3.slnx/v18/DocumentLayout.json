@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\franz\\Documents\\Gabo-ESEN\\Python\\EDA\\EjerciciosGuia1\\Ejercicio3\\ListaInversa-Ejercicio3\\",
+  "WorkspaceRootPath": "C:\\Users\\franz\\Documents\\GaboESEN\\Python\\Guia1-EDA\\Ejercicio3\\ListaInversa-Ejercicio3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4542EE31-66B7-4D89-ADDD-1BE965739CCC}|ListaInversa-Ejercicio3\\ListaInversa-Ejercicio3.csproj|c:\\users\\franz\\documents\\gabo-esen\\python\\eda\\ejerciciosguia1\\ejercicio3\\listainversa-ejercicio3\\listainversa-ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4542EE31-66B7-4D89-ADDD-1BE965739CCC}|ListaInversa-Ejercicio3\\ListaInversa-Ejercicio3.csproj|solutionrelative:listainversa-ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D618AB18-6C28-FD85-E7D6-7B884A3BF1E9}|ListaInversa-Ejercicio3\\ListaInversa-Ejercicio3.csproj|c:\\users\\franz\\documents\\gaboesen\\python\\guia1-eda\\ejercicio3\\listainversa-ejercicio3\\listainversa-ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D618AB18-6C28-FD85-E7D6-7B884A3BF1E9}|ListaInversa-Ejercicio3\\ListaInversa-Ejercicio3.csproj|solutionrelative:listainversa-ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\franz\\Documents\\Gabo-ESEN\\Python\\EDA\\EjerciciosGuia1\\Ejercicio3\\ListaInversa-Ejercicio3\\ListaInversa-Ejercicio3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\franz\\Documents\\GaboESEN\\Python\\Guia1-EDA\\Ejercicio3\\ListaInversa-Ejercicio3\\ListaInversa-Ejercicio3\\Program.cs",
               "RelativeDocumentMoniker": "ListaInversa-Ejercicio3\\Program.cs",
-              "ToolTip": "C:\\Users\\franz\\Documents\\Gabo-ESEN\\Python\\EDA\\EjerciciosGuia1\\Ejercicio3\\ListaInversa-Ejercicio3\\ListaInversa-Ejercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\franz\\Documents\\GaboESEN\\Python\\Guia1-EDA\\Ejercicio3\\ListaInversa-Ejercicio3\\ListaInversa-Ejercicio3\\Program.cs",
               "RelativeToolTip": "ListaInversa-Ejercicio3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

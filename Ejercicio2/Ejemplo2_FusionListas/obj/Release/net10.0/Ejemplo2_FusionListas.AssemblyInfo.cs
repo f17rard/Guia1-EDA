@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejemplo2_FusionListas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62a822561ce9f1cc86cfda9bd25ec0c9c711ee5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc925856e5383426147382587d99b55299ac4392")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejemplo2_FusionListas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejemplo2_FusionListas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
