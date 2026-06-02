@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Ejercicio4
 {
-    internal class CircularLinkedList
+    internal class CircularGame
     {
+        
     }
 }
