@@ -15,6 +15,16 @@ namespace Ejercicio4
             set { size = value; }
         }
 
+        public void Start(int k)
+        {
+            if (IsEmpty())
+            {
+                Console.WriteLine("No hay jugadores para iniciar el juego.");
+                return;
+            }
+
+            DeleteRecursive(head!, k);
+        }
         private void Add(int value)
         {
             Node aux = new Node(value);
@@ -53,6 +63,18 @@ namespace Ejercicio4
             for(int i = 1; i<n+1; i++)
             {
                 Add(i);
+            }
+        }
+
+        public bool IsEmpty()
+        {
+            if (head == null)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
             }
         }
         public Node GetAt(int pos)
@@ -100,30 +122,41 @@ namespace Ejercicio4
             return true;
         }
 
-        private bool DeleteAt(int pos)
-        //vaya marcus te dejo esta webada ya ready para que solo hagas el coso de k y dejar ganador
+        private void DeleteRecursive(Node origin, int k)
         {
-            if (head == null || pos > size || pos<0)
+            if (size == 1)
             {
-                return false;
+                Console.WriteLine($"El ganador es el jugador {head.Data}");
+                return;
             }
 
-            if (pos == size-1) //borrar el ultimo
+            Node previous = origin;
+            for (int i = 0; i < k; i++)
             {
-                return DeleteLast();
+                previous = previous.Next!;
             }
 
-            if (pos == 0) //borrar el primero
-            {
-                return DeleteFirst();
-            }
+            Node deleted = previous.Next!;
+            Node next = deleted.Next!;
+            Console.WriteLine($"Jugador eliminado: {deleted.Data}");
+            
+            previous.Next = next;
 
-            Node aux = GetAt(pos-1);
-            Node deleted = aux.Next;
-            aux.Next = deleted.Next;
-            deleted = null;
+            if (deleted == head)
+            {
+                head = next;
+            }
+            if (deleted == tail)
+            {
+                tail = previous;
+            }
             size--;
-            return false;
+
+            Console.WriteLine($"Jugadores restantes: ");
+            Remain();
+            Console.WriteLine();
+
+            DeleteRecursive(next, k);
         }
 
     }
