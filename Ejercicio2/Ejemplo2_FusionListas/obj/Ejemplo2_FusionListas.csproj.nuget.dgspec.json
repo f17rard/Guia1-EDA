@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\franz\\Documents\\Gabo-ESEN\\Python\\EDA\\EjerciciosGuia1\\Ejercicio2\\Ejemplo2_FusionListas\\Ejemplo2_FusionListas.csproj": {}
+    "C:\\Users\\franz\\Documents\\GaboESEN\\Python\\Guia1-EDA\\Ejercicio2\\Ejemplo2_FusionListas\\Ejemplo2_FusionListas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\franz\\Documents\\Gabo-ESEN\\Python\\EDA\\EjerciciosGuia1\\Ejercicio2\\Ejemplo2_FusionListas\\Ejemplo2_FusionListas.csproj": {
+    "C:\\Users\\franz\\Documents\\GaboESEN\\Python\\Guia1-EDA\\Ejercicio2\\Ejemplo2_FusionListas\\Ejemplo2_FusionListas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franz\\Documents\\Gabo-ESEN\\Python\\EDA\\EjerciciosGuia1\\Ejercicio2\\Ejemplo2_FusionListas\\Ejemplo2_FusionListas.csproj",
+        "projectUniqueName": "C:\\Users\\franz\\Documents\\GaboESEN\\Python\\Guia1-EDA\\Ejercicio2\\Ejemplo2_FusionListas\\Ejemplo2_FusionListas.csproj",
         "projectName": "Ejemplo2_FusionListas",
-        "projectPath": "C:\\Users\\franz\\Documents\\Gabo-ESEN\\Python\\EDA\\EjerciciosGuia1\\Ejercicio2\\Ejemplo2_FusionListas\\Ejemplo2_FusionListas.csproj",
+        "projectPath": "C:\\Users\\franz\\Documents\\GaboESEN\\Python\\Guia1-EDA\\Ejercicio2\\Ejemplo2_FusionListas\\Ejemplo2_FusionListas.csproj",
         "packagesPath": "C:\\Users\\franz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franz\\Documents\\Gabo-ESEN\\Python\\EDA\\EjerciciosGuia1\\Ejercicio2\\Ejemplo2_FusionListas\\obj\\",
+        "outputPath": "C:\\Users\\franz\\Documents\\GaboESEN\\Python\\Guia1-EDA\\Ejercicio2\\Ejemplo2_FusionListas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

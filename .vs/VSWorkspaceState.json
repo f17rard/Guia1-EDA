@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Ejercicio4"
+    "\\Ejercicio4",
+    "\\Ejercicio4\\Ejercicio4"
   ],
-  "SelectedNode": "\\Ejercicio4",
+  "SelectedNode": "\\Ejercicio4\\Ejercicio4\\CircularLinkedList.cs",
   "PreviewInSolutionExplorer": false
 }
