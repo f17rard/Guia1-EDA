@@ -5,3 +5,4 @@ CircularGame juego = new CircularGame();
 
 juego.insertion(6);
 juego.Remain();
+juego.Start(3);
