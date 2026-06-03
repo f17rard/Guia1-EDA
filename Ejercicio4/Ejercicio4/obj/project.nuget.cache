@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "j62Op94g4yo=",
+  "dgSpecHash": "CgnbAHURhVk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\franz\\Documents\\GaboESEN\\Python\\Guia1-EDA\\Ejercicio4\\Ejercicio4\\Ejercicio4.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/marcus/Documentos/GitHub/Guia1-EDA/Ejercicio4/Ejercicio4/Ejercicio4.csproj",
+  "expectedPackageFiles": [
+    "/home/marcus/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.8/microsoft.aspnetcore.app.ref.10.0.8.nupkg.sha512"
+  ],
   "logs": []
 }
