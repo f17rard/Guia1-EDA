@@ -15,7 +15,7 @@ namespace Ejercicio4
             set { size = value; }
         }
 
-         public void Add(int value)
+        private void Add(int value)
         {
             Node aux = new Node(value);
 
@@ -55,5 +55,7 @@ namespace Ejercicio4
                 Add(i);
             }
         }
+
+
     }
 }
