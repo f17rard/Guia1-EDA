@@ -123,7 +123,6 @@ namespace Ejercicio4
         }
 
         private void DeleteRecursive(Node origin, int k)
-        //vaya marcus te dejo esta webada ya ready para que solo hagas el coso de k y dejar ganador
         {
             if (size == 1)
             {
