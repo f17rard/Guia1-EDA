@@ -131,7 +131,7 @@ namespace Ejercicio4
             }
 
             Node previous = origin;
-            for (int i = 1; i < k; i++)
+            for (int i = 0; i < k; i++)
             {
                 previous = previous.Next!;
             }
